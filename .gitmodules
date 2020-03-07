@@ -1,0 +1,4 @@
+[submodule "src/avrlib"]
+	path = src/avrlib
+	url = https://github.com/djmips/avril.git
+	branch = master
